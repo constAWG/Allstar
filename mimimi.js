@@ -1,1 +1,1 @@
-$.getScript('./App.js');
+$.getScript('Allstar.github.io'+'/App.js');
