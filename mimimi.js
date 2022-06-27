@@ -1,1 +1,1 @@
-$.getScript('../App.js');
+$.getScript('./App.js');
